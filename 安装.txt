@@ -1,0 +1,16 @@
+gorm安装 go get go get -u gorm.io/gorm
+
+数据库驱动安装  go get gorm.io/driver/mysql
+
+
+解决跨域问题  go get github.com/gin-contrib/cors
+
+swag安装：go install github.com/go-swagger/go-swagger/cmd/swagger@latest
+实现邮箱发送验证码安装：go get github.com/jordan-wright/email
+
+实现uuid      go get github.com/satori/go.uuid
+
+redis   go get github.com/redis/go-redis/v9
+
+
+GetUUID\初始化数据库，Redis
